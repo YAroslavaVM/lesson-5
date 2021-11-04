@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap');
+
+tr{
+    height: 25px;
+
+}
+table{
+    width: 1200px;
+    margin: 15px auto;
+}
+
+code{
+    font-size: medium;
+}
+
+body{
+
+    background: rgb(254,255,158);
+    background: linear-gradient(90deg, rgba(254,255,158,1) 0%, rgba(185,255,198,0.9724264705882353) 50%, rgba(124,233,255,1) 100%);
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    width: 1200px;
+    height: 100px;
+    border-left: 5px solid;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 0 30px;
+    margin: 15px 0;
+}
+
+p:hover{
+    color: rgb(43, 255, 0);
+}
+
+
+
